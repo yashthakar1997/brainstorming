@@ -5,3 +5,5 @@ Application Ideas:
 Clone for My gate application
 Ecommerce 
 
+Electronics store app with invoice print option
+
