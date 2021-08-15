@@ -7,3 +7,5 @@ Ecommerce
 
 Electronics store app with invoice print option
 
+Application to store the detials.
+-> add expense and dispaly the final detials with invoice.
